@@ -8,3 +8,5 @@ Belajar Kelas Git dan Github, (Progres 38%)
 4.	Latihan Membuat Akun di Github.
 5.	Latihan Membuat Repository Baru.
 6.	Latihan Menambahkan File Baru di Github.
+
+Belajar Kelas Git dan Github, (Progres 48%)
